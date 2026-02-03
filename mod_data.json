@@ -1,5 +1,6 @@
 {
   "latest_version": "1.0.10",
+  "mod_page": "https://modrinth.com/mod/st2-downloader",
   "server_list": [
     {
       "id": "st2",
