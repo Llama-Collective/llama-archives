@@ -1,0 +1,49 @@
+{
+  "latest_version": "1.0.10",
+  "server_list": [
+    {
+      "id": "st2",
+      "name": "Storage Tech 2",
+      "owner": "Storage-Tech-2",
+      "repo": "Archive",
+      "branch": "main",
+      "description": "Official Storage Tech 2 archive",
+      "discordInviteUrl": "https://discord.gg/hztJMTsx2m",
+      "submissionsUrl": "https://discord.com/channels/1375556143186837695/1375575317007040654",
+      "downloadFolder": "st2"
+    },
+    {
+      "id": "soon",
+      "name": "Soontech",
+      "owner": "Soontech-Annals",
+      "repo": "SoonNowArchive",
+      "branch": "main",
+      "description": "Encoded storage community archives",
+      "discordInviteUrl": "https://discord.gg/dkSM2PyzJe",
+      "submissionsUrl": "https://discord.com/channels/1325008017015701504/1390380935148601426",
+      "downloadFolder": "soon"
+    },
+    {
+      "id": "wither",
+      "name": "Wither Archive",
+      "owner": "DuskScorpio",
+      "repo": "wither-archive",
+      "branch": "main",
+      "description": "Wither technology",
+      "discordInviteUrl": "https://discord.gg/wd594eEtfm",
+      "submissionsUrl": "https://discord.com/channels/913065809096638494/1391650300510867487",
+      "downloadFolder": "wither"
+    },
+    {
+      "id": "autocraft",
+      "name": "Autocraft Archive",
+      "owner": "XPBot1",
+      "repo": "Autocrafting-Archive",
+      "branch": "main",
+      "description": "Autocrafting community",
+      "discordInviteUrl": "https://discord.gg/guZdbQ9KQe",
+      "submissionsUrl": "https://discord.com/channels/856232076252282890/1452066872366206977",
+      "downloadFolder": "autocraft"
+    }
+  ]
+}
