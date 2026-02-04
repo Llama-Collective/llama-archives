@@ -35,7 +35,8 @@
       "description": "Wither technology",
       "discordInviteUrl": "https://discord.gg/wd594eEtfm",
       "submissionsUrl": "https://discord.com/channels/913065809096638494/1391650300510867487",
-      "downloadFolder": "wither"
+      "downloadFolder": "wither",
+      "websiteBase": "https://duskscorpio.github.io/wither"
     },
     {
       "id": "autocraft",
