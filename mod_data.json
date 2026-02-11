@@ -14,7 +14,7 @@
       "submissionsUrl": "https://discord.com/channels/1375556143186837695/1375575317007040654",
       "downloadFolder": "st2",
       "websiteBase": "http://storagecatalog.org",
-      "apiBase": "https://botapi.llamamc.org"
+      "apiBase": "https://botapi.llamamc.org/server/1375556143186837695"
     },
     {
       "id": "soon",
@@ -27,7 +27,7 @@
       "submissionsUrl": "https://discord.com/channels/1325008017015701504/1390380935148601426",
       "downloadFolder": "soon",
       "websiteBase": "https://soontech.org/browser",
-      "apiBase": "https://botapi.llamamc.org"
+      "apiBase": "https://botapi.llamamc.org/server/1325008017015701504"
     },
     {
       "id": "wither",
@@ -40,7 +40,7 @@
       "submissionsUrl": "https://discord.com/channels/913065809096638494/1391650300510867487",
       "downloadFolder": "wither",
       "websiteBase": "https://duskscorpio.github.io/wither",
-      "apiBase": "https://botapi.llamamc.org"
+      "apiBase": "https://botapi.llamamc.org/server/913065809096638494"
     },
     {
       "id": "autocraft",
