@@ -13,7 +13,8 @@
       "discordInviteUrl": "https://discord.gg/hztJMTsx2m",
       "submissionsUrl": "https://discord.com/channels/1375556143186837695/1375575317007040654",
       "downloadFolder": "st2",
-      "websiteBase": "http://storagecatalog.org"
+      "websiteBase": "http://storagecatalog.org",
+      "apiBase": "https://botapi.llamamc.org"
     },
     {
       "id": "soon",
@@ -24,7 +25,9 @@
       "description": "Encoded storage community archives",
       "discordInviteUrl": "https://discord.gg/dkSM2PyzJe",
       "submissionsUrl": "https://discord.com/channels/1325008017015701504/1390380935148601426",
-      "downloadFolder": "soon"
+      "downloadFolder": "soon",
+      "websiteBase": "https://soontech.org/browser",
+      "apiBase": "https://botapi.llamamc.org"
     },
     {
       "id": "wither",
@@ -36,7 +39,8 @@
       "discordInviteUrl": "https://discord.gg/wd594eEtfm",
       "submissionsUrl": "https://discord.com/channels/913065809096638494/1391650300510867487",
       "downloadFolder": "wither",
-      "websiteBase": "https://duskscorpio.github.io/wither"
+      "websiteBase": "https://duskscorpio.github.io/wither",
+      "apiBase": "https://botapi.llamamc.org"
     },
     {
       "id": "autocraft",
