@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.11",
   "lfs_extensions": ["mp4", "bin", "zip"],
-  "mod_page": "https://modrinth.com/mod/st2-downloader",
+  "mod_page": "https://modrinth.com/mod/archive-downloader",
   "server_list": [
     {
       "id": "st2",
