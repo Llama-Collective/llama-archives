@@ -55,7 +55,7 @@
     },
     {
       "id": "logical-redstone",
-      "name": "Logical Redstone Archive",
+      "name": "Logical Redstone",
       "owner": "mattbatwings",
       "repo": "Logical-Redstone-Archive",
       "branch": "main",
