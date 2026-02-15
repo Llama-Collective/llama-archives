@@ -52,6 +52,17 @@
       "discordInviteUrl": "https://discord.gg/guZdbQ9KQe",
       "submissionsUrl": "https://discord.com/channels/856232076252282890/1452066872366206977",
       "downloadFolder": "autocraft"
+    },
+    {
+      "id": "logical-redstone",
+      "name": "Logical Redstone Archive",
+      "owner": "mattbatwings",
+      "repo": "Logical-Redstone-Archive",
+      "branch": "main",
+      "description": "This server hosts an archive of useful logical redstone devices.",
+      "discordInviteUrl": "https://discord.gg/r7FmnacNas",
+      "submissionsUrl": "https://discord.com/channels/1361854816837435433/1472297947998847142",
+      "downloadFolder": "logical_redstone"
     }
   ]
 }
