@@ -12,7 +12,7 @@
       "description": "Official Storage Catalog (formally ST2) archive",
       "discordInviteUrl": "https://discord.gg/hztJMTsx2m",
       "submissionsUrl": "https://discord.com/channels/1375556143186837695/1375575317007040654",
-      "downloadFolder": "st2",
+      "downloadFolder": "storage-catalog",
       "websiteBase": "http://storagecatalog.org",
       "apiBase": "https://botapi.llamamc.org/server/1375556143186837695"
     },
@@ -62,7 +62,9 @@
       "description": "This server hosts an archive of useful logical redstone devices.",
       "discordInviteUrl": "https://discord.gg/r7FmnacNas",
       "submissionsUrl": "https://discord.com/channels/1361854816837435433/1472297947998847142",
-      "downloadFolder": "logical_redstone"
+      "downloadFolder": "logical-redstone",
+      "websiteBase": "https://mattbatwings.github.io/lra",
+      "apiBase": "https://botapi.llamamc.org/server/1361854816837435433"
     }
   ]
 }
