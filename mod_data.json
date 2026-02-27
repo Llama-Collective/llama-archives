@@ -51,7 +51,8 @@
       "description": "Autocrafting community",
       "discordInviteUrl": "https://discord.gg/guZdbQ9KQe",
       "submissionsUrl": "https://discord.com/channels/856232076252282890/1452066872366206977",
-      "downloadFolder": "autocraft"
+      "downloadFolder": "autocraft",
+      "apiBase": "https://botapi.llamamc.org/server/856232076252282890"
     },
     {
       "id": "logical-redstone",
