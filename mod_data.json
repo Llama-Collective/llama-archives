@@ -6,7 +6,7 @@
     {
       "id": "st2",
       "name": "Storage Catalog",
-      "owner": "Storage-Tech-2",
+      "owner": "Storage-Catalog",
       "repo": "Archive",
       "branch": "main",
       "description": "Official Storage Catalog archive",
